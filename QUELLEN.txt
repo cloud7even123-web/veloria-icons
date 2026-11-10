@@ -1,0 +1,6 @@
+Item-Bilder in web/icons – Quellen (bei gleichem Namen gilt die erste Quelle)
+1. SwisserDev/fivem-inventory-icons – CC0 1.0 (gemeinfrei)       https://github.com/SwisserDev/fivem-inventory-icons
+2. overextended/ox_inventory (web/images) – GPL-3.0               https://github.com/overextended/ox_inventory
+3. ImpulseFPS/icons – Community-Sammlung                          https://github.com/ImpulseFPS/icons
+4. NatasWillDoIt/items – Community-Sammlung                       https://github.com/NatasWillDoIt/items
+Alle Bilder auf max. 128x128 verkleinert, Dateinamen klein geschrieben. Fahrzeuge & Peds ausgelassen.
