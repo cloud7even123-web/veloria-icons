@@ -3,4 +3,6 @@ Item-Bilder in web/icons – Quellen (bei gleichem Namen gilt die erste Quelle)
 2. overextended/ox_inventory (web/images) – GPL-3.0               https://github.com/overextended/ox_inventory
 3. ImpulseFPS/icons – Community-Sammlung                          https://github.com/ImpulseFPS/icons
 4. NatasWillDoIt/items – Community-Sammlung                       https://github.com/NatasWillDoIt/items
+5. TinySpriteScripts/tss-items – Community-Sammlung (Original von 3./4.) https://github.com/TinySpriteScripts/tss-items
+6. Dejvinoo/Fivem-sushi-pack – vom Ersteller frei zur Nutzung freigegeben https://github.com/Dejvinoo/Fivem-sushi-pack
 Alle Bilder auf max. 128x128 verkleinert, Dateinamen klein geschrieben. Fahrzeuge & Peds ausgelassen.
